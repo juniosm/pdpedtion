@@ -1,0 +1,15 @@
+{
+    "name": "php/edition",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Junio Sousa",
+            "email": "juniosousa120@gmail.com"
+        }
+    ],
+    "require": {}
+}
